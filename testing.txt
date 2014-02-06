@@ -1,1 +1,11 @@
-hello world!....
+commands:
+
+1. git log --oneline
+
+2. git checkout <commit id> -- testing.txt
+
+3. git add testing.txt
+
+4. git commit -m "message"
+
+5. git push
